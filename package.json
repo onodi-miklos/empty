@@ -3,7 +3,7 @@
   "version": "",
   "private": true,
   "description": "",
-  "main": "",
+  "main": "backend/dist/server.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
