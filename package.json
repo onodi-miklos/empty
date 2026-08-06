@@ -12,7 +12,7 @@
     "build:backend": "tsc -p backend"
   },
   "dependencies": {
-    "@onodi-miklos/logger": "^2.0.1",
+    "@onodi-miklos/logger": "^2.0.2",
     "@onodi-miklos/math-utils": "^2.0.0",
     "axios": "^1.13.4",
     "bcrypt": "^6.0.0",
